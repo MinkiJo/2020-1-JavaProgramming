@@ -7,28 +7,28 @@
 
 
 
-[hw01]()
+[hw01](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw01)
 - 자신의 이름과 학번출력 프로그램
 
-[hw02]()
+[hw02](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw02)
 
 - 사용자로부터 두 정수 a, b를 입력 받고, a+b는 10진수로, a*b는 8진수, a-b는 16진수로 나타내는
 프로그램을 작성
 
-[hw03]()
+[hw03](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw03)
 - 사용자로부터 실수 하나를 입력 받고, 입력 받은 실수의 ①정수 부분의 절댓값과, 그 절댓값에 ②8을
 곱한 값, 8로 나눈 ③몫과 ④나머지를 출력하는 프로그램(비트연산만 사용)
 
-[hw05]()
+[hw05](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw05)
 - 사용자로부터 문장과 단어를 각각 하나씩 입력 받아 문장에서 단어를 검색한 결과를 출력하는 프로그램
 
-[hw06]()
+[hw06](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw06)
 - 1.커맨드 라인(command line)에서 하나의 문자열을 입력 받아 영어 자음과 모음을 검사
 - 2.입력 받은 문자열을 역순으로 출력하는 프로그램. 
 - 3.커맨드라인을 통해 입력받아 입력 받은 정수들 중 짝수만 출력하는 프로그램 
 - 4.입력 받은 정수들을 오름차순으로 정렬하는 프로그램 
 
-[midterm test]()
+[midterm test](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/midtermTest)
  - 1.비밀 번호의 각 자리가 숫자 0~9로 구성되는 도어락의 비밀번호를 랜덤하게 생성하는 프로그램
  - 2.사용자로부터 두 개의 x 좌표 a, b(두 개 모두 정수)를 입력 받아 아래 함수에 포함된 점 중 x 좌표가 a와 b사이(a, b 포함)에 존재하고, x 좌표가 홀수인 점들의 좌표를 출력하는 프로그램
  - 3.사용자로부터 하나의 문장을 입력 받아, 알파벳 빈도 수를 출력하는 프로그램
@@ -53,7 +53,7 @@ DogTest 클래스
  - 6.사용자로부터 하나의 문자열을 입력 받아 해당 문자열의 줄임말과 역순 문장을 출력하는 프로그램
  
  
- [hw09]()
+ [hw09](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw09)
  - 1.아래와 같은 학생 클래스를 작성하고, 사용자에게 정보를 받아 학생 인스턴스(객체)
 를 생성하고 이를 테스트
 
@@ -75,7 +75,7 @@ main()에서 동호회 멤버를 3명 내외로 생성하고, 마지막엔 동�
 인지 출력하는 프로그램을 작성하시오(이 외의 필드와 메소드가 필요하면 알아서 작
 성할 것, 단, 이 동호회는 탈퇴할 수 없다). 
 
-[hw10]()
+[hw10](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw10)
 
 - 둘레와 넓이를 필드로 가지는 Figure 클래스를 작성하고 이를 상속하는 Circle 클래스,
 EquilateralTriangle 클래스도 작성하시오. 테스트 클래스에서 Circle, EquilateralTriangle 객체를
@@ -93,7 +93,7 @@ EquilateralTriangle 클래스는 추가적으로 한 변의 길이와 높이에 
 
 ```
 
-[hw11]()
+[hw11](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw11)
 
 - 1.아래의 동물, 고양이, 돌고래, 비둘기 클래스를 작성
 
@@ -145,7 +145,7 @@ for(Animal a: animals) a.move();
 ```
 
 
-[hw12]()
+[hw12](https://github.com/MinkiJo/2020-1-JavaProgramming/tree/main/hw12)
 
 - 1.String 타입의 배열을 매개변수로 받아 그 배열에 저장된 문자열을 정수로 변환하여 출력하
 는 transInt() 메소드를 작성하시오.
